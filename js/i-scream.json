@@ -26,13 +26,13 @@
         "calories": 280,
         "type": "sundae",
         "ingredients": [ "Caramel Sauce","Vanilla Base"],
-        "image": "https://khushivek28.github.io/LAB4-COMP1073/images/ice-cream.xtra1.svg"
+        "image": "https://khushivek28.github.io/LAB4-COMP1073/images/ice-cream-xtra1.svg"
         }, {
             "name": "Kiwi",
             "calories": 140,
             "type": "sorbet",
             "ingredients": [ "Kiwi Puree","Sugar", "Water"],
-            "image": "https://khushivek28.github.io/LAB4-COMP1073/images/ice-cream.xtra2.svg"
+            "image": "https://khushivek28.github.io/LAB4-COMP1073/images/ice-cream-xtra2.svg"
         }
     ]
 }
